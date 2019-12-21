@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/lfabrizio/npm-demo#readme",
   "dependencies": {
+    "mongoose": "^5.8.2",
     "underscore": "^1.9.1"
   }
 }
